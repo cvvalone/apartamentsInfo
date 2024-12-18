@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ApartamentsInfo.ConsoleApp.Editing.OwnersEditor">
+    <Position X="4.75" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAIiAIAAAAAAAFIAEAAQBACABAIAAAgQAAAAAAAAAAI=</HashCode>
+      <FileName>Editing\OwnersEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApartamentsInfo.ConsoleApp.Editing.ApartamentsEditor">
+    <Position X="7.75" Y="10" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAIiAIAAAAAAAFIAEACQBACABAIAAAgQAAAAAAAAAAI=</HashCode>
+      <FileName>Editing\ApartamentsEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApartamentsInfo.ConsoleApp.MainController">
+    <Position X="2" Y="10" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>SAAgAIAAAAIAABIAAACAAAAABBAIQADQACAAAABAgAI=</HashCode>
+      <FileName>MainController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Entities.Entity">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApartamentsInfo.ConsoleApp.Sorting.ApartamentsSortingController">
+    <Position X="10.5" Y="10" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAAAAAABAAAAAQQAAAAAJAAAQQAEAAAAAAAAI=</HashCode>
+      <FileName>Sorting\ApartamentsSortingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.ConsoleUI.Driver">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ApartamentsInfo.ConsoleApp.Sorting.OwnersSortingController">
+    <Position X="14" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAAAAAABIAAACQAAAAAAIAAAAQAEAAAAAAAAI=</HashCode>
+      <FileName>Sorting\OwnersSortingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApartamentsInfo.Apartament">
+    <Position X="2.25" Y="5.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ApartamentsInfo.Owner">
+    <Position X="5.25" Y="5.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ApartamentsInfo.Data.IO.XmlFileIoController">
+    <Position X="8.25" Y="5.75" Width="3" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApartamentsInfo.Data.IO.BinnaryFileIoController">
+    <Position X="11.5" Y="5.75" Width="3" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApartamentsInfo.Data.DataContext">
+    <Position X="17" Y="10" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApartamentsInfo.Data.DataSet">
+    <Position X="17.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="Common.ConsoleUI.MenuItem">
+    <Position X="15" Y="5.75" Width="2" />
+    <TypeIdentifier />
+  </Struct>
+  <Interface Name="Common.Interfaces.IHierarchical&lt;T&gt;">
+    <Position X="8" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Common.Interfaces.IKeyable">
+    <Position X="9.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ApartamentsInfo.Data.Interfaces.IDataSet">
+    <Position X="11.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ApartamentsInfo.Data.Interfaces.IFileIoController">
+    <Position X="13.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
